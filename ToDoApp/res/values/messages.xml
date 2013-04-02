@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="mandatory_message">$1%s is mandatory</string>
+
+</resources>

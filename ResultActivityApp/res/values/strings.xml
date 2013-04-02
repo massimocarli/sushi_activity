@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ResultActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="ahead_label">Go Next</string>
+    <string name="return_label">Return Text</string>
+    <string name="return_custom_label">Return Custom</string>
+    <string name="back_label">Go Back</string>
+    <string name="placeholder_empty">-</string>
+    <string name="text_hint">Insert some text</string>
+    <string name="get_data_label">Get Data</string>
+    <string name="show_data_label">Show Data</string>
+    <string name="pick_mode_message">We\'re in PICK mode</string>
+    
+
+</resources>

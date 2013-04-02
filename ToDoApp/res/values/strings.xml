@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ToDoApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="nothing_todo_message">You have nothing to do!</string>
+    <string name="add_todo_menu_item">New ToDo</string>
+    <string name="delete_todo_menu_item">Delete</string>
+    <string name="update_todo_menu_item">Edit</string>
+    <string name="save_todo_menu_item">Save</string>
+    <string name="done_todo_menu_item">Complete</string>
+    <string name="completed_label">COMPLETED</string>
+    <string name="not_completed_label">NOT COMPLETED!</string>
+    
+    
+    <string name="id_edit_hint">Insert the ToDo Id</string>
+    <string name="title_edit_hint">Insert the ToDo Title</string>
+    <string name="description_edit_hint">Insert the Description</string>
+
+</resources>

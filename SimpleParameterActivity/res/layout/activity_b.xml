@@ -1,0 +1,37 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ActivityB" >
+
+    <TextView
+        android:id="@+id/string_text"
+        style="@style/text_output_style"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/placeholder_text" />
+
+    <TextView
+        android:id="@+id/number_text"
+        style="@style/text_output_style"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/placeholder_number" />
+
+    <TextView
+        android:id="@+id/date_text"
+        style="@style/text_output_style"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/placeholder_date" />
+
+    <Button
+        android:id="@+id/back_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:onClick="goBack"
+        android:text="@string/back_label" />
+
+</LinearLayout>

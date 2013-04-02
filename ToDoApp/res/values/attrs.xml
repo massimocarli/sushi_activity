@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="ToDoStateDrawable">
+        <attr name="completed" format="boolean"></attr>
+        <attr name="not_completed" format="boolean"></attr>
+    </declare-styleable>
+
+</resources>
