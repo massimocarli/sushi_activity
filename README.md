@@ -1,2 +1,2 @@
-This is the example code for Sushi about Activity
+This is the example code for Sushi about Activity.
 
